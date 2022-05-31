@@ -1,0 +1,21 @@
+{
+  "name": "com.maroontress.stylechecker",
+  "version": "1.0.27",
+  "displayName": "StyleChecker",
+  "description": "",
+  "unity": "2022.1",
+  "documentationUrl": "https://maroontress.github.io/StyleChecker/",
+  "changelogUrl": "https://github.com/maroontress/StyleChecker/releases",
+  "licensesUrl": "https://github.com/maroontress/StyleChecker/blob/master/COPYRIGHT.md",
+  "dependencies": {
+    "com.unity.ide.visualstudio": "2.0.16"
+  },
+  "keywords": [
+    "RoslynAnalyzer"
+  ],
+  "author": {
+    "name": "Maroontress",
+    "email": "support@maroontress.com",
+    "url": "https://maroontress.github.io"
+  }
+}
